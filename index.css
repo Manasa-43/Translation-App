@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+body{
+    font-family: 'Kalam', cursive;
+    margin: 0rem;
+    padding: none;
+
+}
+
+.bg-color{
+    background-color: #F2C94C; 
+    /* padding:1rem 0rem; */
+    /* border:1px solid black; */
+}
+.center{
+    display:flex;
+    justify-content: center;
+}
+.outer{
+    width:45%;
+}
+nav{
+    width:100%;
+    font-size: 2rem;
+    text-align: center;
+    padding:1rem 0rem
+}
+.textAlign{
+    text-align: center;
+}
+textarea{
+    min-height: 20vh;
+    margin-top:2rem ;
+    /* display:block; */
+    width:98%;
+    font-family: inherit;
+    font-size: 1rem;
+
+}
+#btn{
+    font-family: inherit;
+   padding:1rem 2rem;
+   background-color: #F2C94C; 
+   border:none;
+   font-size: 1rem;
+   margin: 1rem 0rem;
+}
+.border{
+    border:1px solid black
+}
+.output{
+    border:1px solid black;
+    min-height: 10vh;
+    max-height:20vh;
+    overflow:scroll;
+    width: 100%;
+    margin-bottom:2px;
+}
+/* footer>div{
+    padding:0.75rem;
+} */
+
+.about{
+   font-size: 1.5rem;
+   padding-top:0.75rem;
+   margin: none !important;
+}
+#footer{
+    /* padding:none !important; */
+    /* margin:none !important; */
+   width:45%;
+   text-align: center;
+   
+}
+.footer{
+    inline-size: 45%;
+    overflow-wrap: break-word;
+    /* text-align: center; */
+    margin:auto;
+    padding-bottom:1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* nav{
+  
+    padding: 5rem 0rem;
+    border:1px solid black
+ } *
+/* .whole-section{
+    margin:auto;
+    padding:0rem 10rem; 
+    display: block;
+    
+}
+header{
+    background-color: #F2C94C;
+    padding-top:0.75rem;
+    padding-bottom:0.75rem;
+    
+}
+header>div{
+    text-align: center;
+    font-size: 2rem;
+}
+main{
+   
+    padding: 2.5rem 0rem;
+}
+.input-field{
+    min-height: 20vh;
+    width: 50%;
+    font-family:inherit;
+    border:1px solid black;
+}
+button{
+    background-color: #F2C94C;
+    border:none;
+    padding: 1rem 2rem;
+    font-family:inherit;
+}
+
+.output{
+    border:1px solid black;
+    min-height: 10vh;
+    max-height:20vh;
+    overflow:scroll;
+    width: 50%;
+  
+}
+footer{
+    background-color: #F2C94C;
+    position:fixed;
+    padding:0rem 10rem;
+    margin-bottom:0px;
+}
+footer>p{
+    padding:0px;
+}
+.alignCenter{
+    
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+} */
